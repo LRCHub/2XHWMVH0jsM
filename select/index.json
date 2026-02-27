@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "蜂と蝶",
+  "base_artist": "SOUL SCREAM",
+  "createdAt": "2026-02-27T08:19:39.022130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蜂と蝶",
+      "artist": "SOUL SCREAM",
+      "has_synced": true,
+      "path": "select/01_蜂と蝶_SOUL_SCREAM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "蜂と蝶",
+      "artist": "SOUL SCREAM",
+      "has_synced": true,
+      "path": "select/02_蜂と蝶_SOUL_SCREAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蜂と蝶",
+      "artist": "SOUL SCREAM",
+      "has_synced": false,
+      "path": "select/pl_01_蜂と蝶_SOUL_SCREAM.txt"
+    }
+  ]
+}
